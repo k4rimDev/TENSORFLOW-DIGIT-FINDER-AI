@@ -10,6 +10,20 @@ python3 -m venv .venv
 pip install -r requirements.txt
 ```
 
+## Run
+
+First Tab:
+
+```sh
+python main.py
+```
+
+Second Tab:
+
+```sh
+python predict.py
+```
+
 ## License
 
 MIT
